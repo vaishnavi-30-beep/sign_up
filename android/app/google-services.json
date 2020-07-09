@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467061935294",
+    "firebase_url": "https://login-78f23.firebaseio.com",
+    "project_id": "login-78f23",
+    "storage_bucket": "login-78f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467061935294:android:281e2e9ccbe3a16d5f22ef",
+        "android_client_info": {
+          "package_name": "com.codevaishnavi.vegifresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467061935294-4mcvi60vl5ltaga1427cfm7604josc36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codevaishnavi.vegifresh",
+            "certificate_hash": "c219971923654a0b84217274a2609226dfe8f39c"
+          }
+        },
+        {
+          "client_id": "467061935294-1rvp3n0j6acj1lmilaa38v4tudor9nsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbgdqGQ9CCtgAYGNqskrLRmJjdW8g27gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467061935294-1rvp3n0j6acj1lmilaa38v4tudor9nsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
